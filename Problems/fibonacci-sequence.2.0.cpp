@@ -2,7 +2,7 @@
 
 void fibonacci(int n)
 {
-    int term[n + 1];
+    int term[99999];
 
     for(int i{1}; i < n+1; i++)
     {
