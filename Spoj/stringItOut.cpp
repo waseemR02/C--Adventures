@@ -91,3 +91,5 @@ int main()
         std::cout << M << std::endl;
     }
 }
+
+// https://www.spoj.com/problems/SUBS/
