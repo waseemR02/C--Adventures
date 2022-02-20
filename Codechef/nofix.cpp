@@ -30,3 +30,4 @@ int main()
         cout << count << endl;
     }
 }
+// https://www.codechef.com/FEB222C/problems/NOFIX
