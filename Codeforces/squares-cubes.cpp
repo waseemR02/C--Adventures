@@ -34,3 +34,5 @@ int main()
         std::cout << count << std::endl; 
     }
 }
+
+// https://codeforces.com/contest/1619/problem/B
