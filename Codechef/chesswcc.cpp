@@ -48,3 +48,5 @@ int main()
         cout << output << endl;
     }
 }
+
+// https://www.codechef.com/FEB222C/problems/WCC
