@@ -69,13 +69,13 @@ int main()
 {
     int x{};
     std::cin >> x;
-    std::string c{};
     
-    sortString(c);
-    
-    while(std::cin >>  c)
+    while(x--)
 
     {   
+        std::string c{};
+        std::cin >>  c;
+        
         sortString(c);
         std::string d{};
         std::cin >> d;
